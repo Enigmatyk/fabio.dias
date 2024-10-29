@@ -8,26 +8,31 @@ color: white;
 padding-top: 15%;
 }
 
+footer {
+  background-color: red;
+}
+
 .blue {
-  color: #3498db;
+  color: rgba(255, 0, 0, 0.719);
 }
 
 a:hover {
-border-bottom: 1px solid #0652DD;
+border-bottom: 1px solid red;
 padding-bottom: 0;
 color: white;
 }
 
 a {
-color: white;
+color: grey;
 text-decoration: none;
 text-align: center;
+position: relative;
 }
 
 .avatar {
-border-radius: 50%;
+border-radius: 10%;
 width: 100%;
-max-width: 180px;
+max-width: 150px;
 }
 
 .img-center {
