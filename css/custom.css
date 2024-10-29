@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 
 body {
-background-color: #030113;
+background-color: #02010e;
 font-family: 'Poppins', sans-serif;
 font-weight: 300;
 color: white;
@@ -12,7 +12,7 @@ footer {
   background-color: red;
 }
 
-.blue {
+.general_text_color {
   color: rgba(255, 0, 0, 0.719);
 }
 
@@ -23,7 +23,7 @@ color: white;
 }
 
 a {
-color: grey;
+color: rgba(173, 173, 173, 0.801);
 text-decoration: none;
 text-align: center;
 position: relative;
